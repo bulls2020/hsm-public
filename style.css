@@ -72,3 +72,23 @@ h4{
   padding-left: 0px;
   padding-right: 0px;
 }
+
+.teiler{
+  width: 80px;
+  height: 8px;
+  background-color: #808080;
+}
+
+.datum{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#contentWrap_post{
+  padding-left: 2%;
+  padding-right:2%;
+}
+
+#text{
+  padding-right:5%;
+}
